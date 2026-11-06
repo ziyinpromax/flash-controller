@@ -1,1 +1,8 @@
-{"apkSha256":"2c8860916a7df76a47cd967b02816bf735f0a004987a7dd05a3037dfdc2953ba","apkUrl":"https://ziyinpromax.github.io/flash-controller/FlashController.apk","certSha256":"3260afec405d40ba34390ba650666725152ecddb8673e71c1006bfde2a2680ec","package":"com.parami.flashcontroller","versionCode":8,"versionName":"1.5.1"}
+{
+  "apkSha256": "c28c4ad4006de03e7bc14f4fdc494d3521584002303e85592cbbdde8c72d8240",
+  "apkUrl": "https://ziyinpromax.github.io/flash-controller/FlashController.apk",
+  "certSha256": "3260afec405d40ba34390ba650666725152ecddb8673e71c1006bfde2a2680ec",
+  "package": "com.parami.flashcontroller",
+  "versionCode": 15,
+  "versionName": "1.7.4"
+}
